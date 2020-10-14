@@ -1,2 +1,2 @@
 # Stop_watch
-stopWatch plugin
+VinayStopWatch plugin
